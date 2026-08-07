@@ -3,6 +3,7 @@ import { news } from "../data/news";
 import "./Article.css";
 import ArticleContent from "../components/news/ArticleContent";
 import { Helmet } from "react-helmet-async";
+import SocialShare from "../SocialShare";
 
 
 export default function Article() {
@@ -53,7 +54,10 @@ export default function Article() {
                     src={article.image}
                     alt={article.title}
                 />
-
+                <SocialShare
+                    title={article.title}
+                    url={window.location.href}
+                />
 
                 <div className="article__content">
 
