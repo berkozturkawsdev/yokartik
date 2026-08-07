@@ -1,7 +1,6 @@
 import NewsCard from "./NewsCard";
 import "./NewsGrid.css";
 import { news } from "../../data/news";
-import { Helmet } from "react-helmet-async";
 
 
 export default function NewsGrid() {

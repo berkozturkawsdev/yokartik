@@ -6,6 +6,8 @@
     "module": "esnext",
     "types": ["vite/client"],
     "allowArbitraryExtensions": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
     "skipLibCheck": true,
 
     /* Bundler mode */

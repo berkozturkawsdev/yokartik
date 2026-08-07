@@ -4,4 +4,9 @@ interface Window {
             process: () => void;
         };
     };
+    twttr?: {
+        widgets: {
+            load: () => void;
+        };
+    };
 }

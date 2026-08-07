@@ -2,7 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './styles/global.css'
 import App from './App.tsx'
-import { Helmet, HelmetProvider } from 'react-helmet-async'
+import { HelmetProvider } from 'react-helmet-async'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
