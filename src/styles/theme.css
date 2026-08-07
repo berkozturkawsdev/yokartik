@@ -1,0 +1,35 @@
+:root {
+  /* Colors */
+  --color-background: #ffffff;
+  --color-surface: #f8f8f8;
+
+  --color-text: #111111;
+  --color-text-light: #666666;
+
+  --color-primary: #d90429;
+  --color-primary-dark: #a4031f;
+
+  --color-border: #e5e5e5;
+
+  --color-black: #000000;
+  --color-white: #ffffff;
+
+
+  /* Typography */
+  --font-family: "Sora", "Inter", "Segoe UI", Roboto, Arial, sans-serif;
+
+
+  /* Layout */
+  --max-width: 1200px;
+
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+
+
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(0,0,0,0.08);
+  --shadow-md: 0 8px 25px rgba(0,0,0,0.12);
+}

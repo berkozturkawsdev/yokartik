@@ -1,0 +1,34 @@
+{
+    "id": "ddg-sunglasses",
+    "title": "DuckDuckGo Hiçbir İşe Yaramayan Güneş Gözlüğü Çıkardı, Stoklar Tükendi!",
+    "description": "DuckDuckGo, yapay zeka destekli cihazların arttığı dönemde gizliliğe vurgu yapan yeni bir güneş gözlüğü tanıttı. Gerçek bir ürün olan gözlük, teknoloji dünyasına mizahi bir gönderme yapıyor.",
+    "image": "/images/ddg-sunglasses.webp",
+    "category": "TEKNOLOJİ",
+    "date": "6 Ağustos 2026, Perşembe",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "DuckDuckGo'nun yeni ürünü, hiçbir akıllı özellik, kamera veya yapay zeka entegrasyonu bulunmayan sıradan bir güneş gözlüğü. Knockaround ile birlikte tasarlanan “Normal F***ing Sunglasses”, teknoloji şirketlerinin akıllı gözlük trendine mizahi bir gönderme yaparken gizlilik konusuna dikkat çekiyor."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mat siyah tasarıma sahip gözlükler, Knockaround'un Paso Robles modelinden ilham alıyor. Polarize camlara, UV400 korumasına ve darbelere karşı dayanıklılığa sahip olan ürün, herhangi bir batarya, elektronik parça veya yapay zeka özelliği içermiyor."
+        },
+        {
+            "type": "twitter",
+            "url": "https://x.com/DuckDuckGo/status/2082850280413049311"
+        },
+        {
+            "type": "paragraph",
+            "text": "DuckDuckGo sözcüsüne göre, “Normal F***ing Sunglasses” adlı gözlükler, gizliliği tehdit eden teknolojilerin sıradan ürünlere bile eklenmesine karşı yapılan mizahi bir eleştiri olarak tasarlandı."
+        },
+        {
+            "type": "paragraph",
+            "text": "DuckDuckGo, Meta gibi teknoloji şirketlerinin güneş gözlüklerini gözetleme cihazlarına dönüştürdüğünü savunarak, kullanıcı verilerinin toplanmasına yönelik eleştirisini bu ürünle dile getirdi. Şirketin mizahi bir kampanya olarak çıkardığı gözlükler ise büyük ilgi gördü ve satışa çıktıktan birkaç gün sonra stokları tükendi."
+        },
+        {
+            "type": "paragraph",
+            "text": "DuckDuckGo, üretken yapay zeka ve büyük dil modellerine dayalı araçlar konusunda temkinli bir yaklaşım benimsiyor. Şirket, kullanıcılarına yapay zeka sonuçlarının arama deneyimine tamamen entegre edilip edilmemesi gerektiğini sordu ve büyük çoğunluk olumsuz yanıt verdi. Bunun üzerine yapay zeka içeriklerini ayrı bir bölümde sunmaya devam ediyor."
+        }
+    ]
+}
