@@ -1,0 +1,34 @@
+{
+    "id": "google-ai-kameralarda-altin-oldugunu-soyledi",
+    "title": "Google AI'dan İlginç Hata: İnsanlara Kameralarda Altın Olduğunu Söyledi!",
+    "description": "Google'ın yapay zekası Gemini, internette dolaşan şaka içerikli paylaşımları gerçek sanarak Flock plaka tanıma kameralarının içinde altın bulunduğunu öne sürdü.",
+    "image": "/images/google-ai-kameralarda-altin-oldugunu-soyledi.webp",
+    "category": "TEKNOLOJI",
+    "date": "7 Ağustos 2026, Cuma",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "Google'ın yapay zeka destekli arama özelliği AI Overviews, internetteki bir espriyi gerçek sanarak Flock plaka tanıma kameralarının içinde değerli miktarda altın bulunduğunu öne sürdü. Ancak bu iddiaların gerçek olmadığı ve bir internet memesinden kaynaklandığı ortaya çıktı."
+        },
+        {
+            "type": "paragraph",
+            "text": "İnternette bazı kullanıcılar, gizlilik endişeleri nedeniyle Flock kameralarıyla dalga geçen paylaşımlar yaparak bu cihazların içinde altın ve bakır bulunduğunu iddia etti. Google'ın yapay zekası ise bu şakaları gerçek bilgiler gibi yorumlayarak kullanıcılara yanlış yanıtlar verdi."
+        },
+        {
+            "type": "image",
+            "src": "/images/google.webp"
+        },
+        {
+            "type": "paragraph",
+            "text": "AI Overviews bir süre boyunca bir Flock kamerasında 1 ila 5 gram altın ve yüksek miktarda bakır bulunduğunu söyledi. Ancak mühendisler bu miktarların, yaklaşık 3 kilogram ağırlığındaki küçük bir elektronik cihaz için gerçekçi olmadığını belirtti."
+        },
+        {
+            "type": "paragraph",
+            "text": "Google daha sonra yanıtlarını güncelleyerek kameraların yalnızca diğer elektronik cihazlarda olduğu gibi çok küçük miktarda değerli metal içerdiğini açıkladı. Olay, yapay zekanın internetteki şakaları ve yanlış bilgileri gerçek gibi sunabileceğini gösteren bir örnek oldu."
+        },
+        {
+            "type": "paragraph",
+            "text": "Flock kameraları, yapay zeka destekli plaka tanıma sistemleriyle araçları takip etmek ve verileri analiz etmek için kullanılıyor. Bu teknoloji, güvenlik ile gizlilik arasındaki tartışmaları da beraberinde getiriyor."
+        }
+    ]
+}

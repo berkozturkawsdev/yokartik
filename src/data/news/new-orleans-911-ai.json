@@ -1,0 +1,26 @@
+{
+    "id": "new-orleans-911-ai-yapay-zeka",
+    "title": "New Orleans 911 Çağrılarını İnsan Yerine Yapay Zekaya Emanet Ediyor!",
+    "description": "New Orleans'ta 911'i arayan kişiler, karşılarında bir insan yerine yapay zeka destekli bir çağrı görevlisinin sesini duyabilir. Şehir, acil çağrılarda yapay zeka kullanımını test etmeye hazırlanıyor.",
+    "image": "/images/new-orleans-911-ai.webp",
+    "category": "TEKNOLOJI",
+    "date": "7 Ağustos 2026, Cuma",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "ABD'nin New Orleans kentinde, 911 acil çağrı merkezindeki yoğunluğu azaltmak amacıyla yapay zeka destekli yeni bir sistem kullanılmaya başlanacak. Aynı olaya ilişkin çok sayıda ihbar geldiğinde bazı aramalar yapay zeka tarafından karşılanacak."
+        },
+        {
+            "type": "image",
+            "src": "/images/new-orleans-911-ai.webp"
+        },
+        {
+            "type": "paragraph",
+            "text": "Yeni sistemin amacı, insan operatörlerin yerini almak değil, onlara destek olmak. Böylece acil müdahale ekipleri daha karmaşık ve kritik olaylara odaklanabilecek."
+        },
+        {
+            "type": "paragraph",
+            "text": "Birçok şehir kamu hizmetlerinde yapay zekayı test ederken, acil çağrı merkezleri de daha hızlı ve verimli hizmet sunmak için bu teknolojiyi kullanmaya başlayan alanlardan biri haline geliyor."
+        }
+    ]
+}
