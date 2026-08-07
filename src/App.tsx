@@ -7,41 +7,40 @@ import {
 
 import Navbar from "./components/layout/Navbar";
 import NewsGrid from "./components/news/NewsGrid";
-import { HelmetProvider } from "react-helmet-async";
 
 import Article from "./pages/Article";
+import Analytics from "./Analytics";
 
 
 function App() {
 
   return (
 
-    <HelmetProvider>
-      <BrowserRouter>
+    <BrowserRouter>
+      <Analytics />
 
-        <Navbar />
+      <Navbar />
 
-        <main className="container">
+      <main className="container">
 
-          <Routes>
+        <Routes>
 
-            <Route
-              path="/"
-              element={<NewsGrid />}
-            />
+          <Route
+            path="/"
+            element={<NewsGrid />}
+          />
 
 
-            <Route
-              path="/article/:id"
-              element={<Article />}
-            />
+          <Route
+            path="/article/:id"
+            element={<Article />}
+          />
 
-          </Routes>
+        </Routes>
 
-        </main>
+      </main>
 
-      </BrowserRouter>
-    </HelmetProvider>
+    </BrowserRouter>
   );
 }
 
