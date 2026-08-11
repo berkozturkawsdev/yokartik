@@ -1,34 +1,39 @@
-
 import type { News } from "../types/News";
-import rawKatyPerryBottle from "./news/katy-perry-bottle.json";
-import rawAnimeFanOrder from "./news/anime-fan-order.json";
-import rawDdgSunglasses from "./news/ddg-sunglasses.json";
-import rawAsmrBan from "./news/asmr-ban.json";
-import rawNewOrleans911Ai from "./news/new-orleans-911-ai.json";
-import rawGoogleFlockGold from "./news/google-flock-gold.json";
-import rawItalianHelpGerman from "./news/italians-help-germans.json";
-import rawTrumpNaruto from "./news/trump-pokemon-naruto.json";
-import rawUtahTamponFire from "./news/utah-tampon-fire.json";
 
-const katyPerryBottle: News = rawKatyPerryBottle as unknown as News;
-const animeFanOrder: News = rawAnimeFanOrder as unknown as News;
-const ddgSunglasses: News = rawDdgSunglasses as unknown as News;
-const asmrBan: News = rawAsmrBan as unknown as News;
-const newOrleans911Ai: News = rawNewOrleans911Ai as unknown as News;
-const googleFlockGold: News = rawGoogleFlockGold as unknown as News;
-const italianHelpGerman: News = rawItalianHelpGerman as unknown as News;
-const trumpNaruto: News = rawTrumpNaruto as unknown as News;
-const utahTamponFire: News = rawUtahTamponFire as unknown as News;
+const newsModules = import.meta.glob("./news/*.json", {
+    eager: true,
+    import: "default",
+});
 
+const monthMap: Record<string, number> = {
+    Ocak: 0,
+    Şubat: 1,
+    Mart: 2,
+    Nisan: 3,
+    Mayıs: 4,
+    Haziran: 5,
+    Temmuz: 6,
+    Ağustos: 7,
+    Eylül: 8,
+    Ekim: 9,
+    Kasım: 10,
+    Aralık: 11,
+};
 
-export const news: News[] = [
-    utahTamponFire,
-    trumpNaruto,
-    italianHelpGerman,
-    googleFlockGold,
-    newOrleans911Ai,
-    asmrBan,
-    ddgSunglasses,
-    animeFanOrder,
-    katyPerryBottle,
-];
+const parseTurkishDate = (date: string): number => {
+    const match = date.match(/^(\d{1,2})\s+([A-Za-zÇçĞğİıÖöŞşÜü]+)\s+(\d{4})/);
+
+    if (!match) return 0;
+
+    const [, day, month, year] = match;
+
+    return new Date(
+        Number(year),
+        monthMap[month],
+        Number(day)
+    ).getTime();
+};
+
+export const news: News[] = (Object.values(newsModules) as News[]).sort(
+    (a, b) => parseTurkishDate(b.date) - parseTurkishDate(a.date)
+);
