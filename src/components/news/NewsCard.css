@@ -84,7 +84,7 @@
 .news-card p {
     margin: 0;
     color: var(--color-text-light);
-    font-size: 0.95rem;
+    font-size: 0.75rem;
     line-height: 1.6;
 }
 
