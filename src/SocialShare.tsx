@@ -34,10 +34,6 @@ export default function SocialShare({ title, url }: Props) {
     return (
         <div className="share-container">
 
-            <span className="share-label">
-                Share:
-            </span>
-
             <button
                 className="share-btn native"
                 onClick={nativeShare}
