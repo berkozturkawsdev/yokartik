@@ -1,34 +1,34 @@
 {
-    "id": "ddg-sunglasses",
-    "title": "DuckDuckGo Hiçbir İşe Yaramayan Güneş Gözlüğü Çıkardı, Stoklar Tükendi!",
-    "description": "DuckDuckGo, yapay zeka destekli cihazların arttığı dönemde gizliliğe vurgu yapan yeni bir güneş gözlüğü tanıttı. Gerçek bir ürün olan gözlük, teknoloji dünyasına mizahi bir gönderme yapıyor.",
-    "image": "/images/ddg-sunglasses.webp",
-    "category": "TEKNOLOJİ",
-    "date": "6 Ağustos 2026, Perşembe",
+    "id": "sony-playstation-oyunlarini-satin-alanlara-lisans-uyarisi",
+    "title": "Sony'den PlayStation Oyuncularına Hatırlatma: Satın Aldığınız Oyunların Sahibi Değilsiniz",
+    "description": "Sony'nin PlayStation kullanıcılarına gönderdiği son bildirimler, dijital oyunların satın alınmadığını, yalnızca lisanslandığını yeniden gündeme taşıdı. Şirketin 2028'de fiziksel oyun disklerinin üretimini sonlandırma planı da tartışmaları büyütüyor.",
+    "image": "/images/sony-playstation-oyunlarini-satin-alanlara-lisans-uyarisi.webp",
+    "category": "Oyun",
+    "date": "25 Ağustos 2026, Salı",
     "content": [
         {
             "type": "paragraph",
-            "text": "DuckDuckGo'nun yeni ürünü, hiçbir akıllı özellik, kamera veya yapay zeka entegrasyonu bulunmayan sıradan bir güneş gözlüğü. Knockaround ile birlikte tasarlanan “Normal F***ing Sunglasses”, teknoloji şirketlerinin akıllı gözlük trendine mizahi bir gönderme yaparken gizlilik konusuna dikkat çekiyor."
+            "text": "Sony'nin PlayStation kullanıcılarına gönderdiği son e-postalar, oyuncuların dijital olarak satın aldıkları oyunların aslında kendilerine ait olmadığını yeniden gündeme getirdi. PlayStation'ın kullanıcı sözleşmesinde oyun yazılımlarının satılmadığı, yalnızca lisanslandığı açıkça belirtiliyor."
         },
         {
             "type": "paragraph",
-            "text": "Mat siyah tasarıma sahip gözlükler, Knockaround'un Paso Robles modelinden ilham alıyor. Polarize camlara, UV400 korumasına ve darbelere karşı dayanıklılığa sahip olan ürün, herhangi bir batarya, elektronik parça veya yapay zeka özelliği içermiyor."
+            "text": "Bu durum normalde dijital oyun mağazalarında uygulanan standart bir lisans modeli olsa da Sony'nin açıklaması, şirketin Ocak 2028'de PlayStation oyunlarının fiziksel disk üretimini sonlandırma planlarının ardından tepki çekti."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sony'nin fiziksel oyunlardan uzaklaşma planına karşı oyuncular arasında boykot çağrıları da yapılıyor. Bazı kullanıcılar 23-30 Ağustos tarihleri arasında PlayStation Store ve PlayStation Plus hizmetlerinden alışveriş yapmamayı planlıyor."
         },
         {
             "type": "twitter",
-            "url": "https://x.com/DuckDuckGo/status/2082850280413049311"
+            "url": "https://x.com/TechieUltimatum/status/2091086002995736717"
         },
         {
             "type": "paragraph",
-            "text": "DuckDuckGo sözcüsüne göre, “Normal F***ing Sunglasses” adlı gözlükler, gizliliği tehdit eden teknolojilerin sıradan ürünlere bile eklenmesine karşı yapılan mizahi bir eleştiri olarak tasarlandı."
+            "text": "Sony ise gelen tepkilere rağmen planlarını değiştirmiş değil. Şirketin finans yöneticisi, fiziksel disk üretimini sonlandırma kararının temkinli şekilde ilerletileceğini belirtirken, şirket dijital oyunların ağırlıkta olduğu bir geleceğe hazırlık yapıyor."
         },
         {
             "type": "paragraph",
-            "text": "DuckDuckGo, Meta gibi teknoloji şirketlerinin güneş gözlüklerini gözetleme cihazlarına dönüştürdüğünü savunarak, kullanıcı verilerinin toplanmasına yönelik eleştirisini bu ürünle dile getirdi. Şirketin mizahi bir kampanya olarak çıkardığı gözlükler ise büyük ilgi gördü ve satışa çıktıktan birkaç gün sonra stokları tükendi."
-        },
-        {
-            "type": "paragraph",
-            "text": "DuckDuckGo, üretken yapay zeka ve büyük dil modellerine dayalı araçlar konusunda temkinli bir yaklaşım benimsiyor. Şirket, kullanıcılarına yapay zeka sonuçlarının arama deneyimine tamamen entegre edilip edilmemesi gerektiğini sordu ve büyük çoğunluk olumsuz yanıt verdi. Bunun üzerine yapay zeka içeriklerini ayrı bir bölümde sunmaya devam ediyor."
+            "text": "Tartışmanın merkezinde ise dijital oyunların mülkiyeti bulunuyor. Kullanıcılar bir oyuna para ödeseler bile, sözleşmeler gereği oyunun kendisine değil, onu kullanma lisansına sahip oluyor. Bu da platform veya lisans erişimi sona erdiğinde oyuncuların oyunlarına erişimi konusunda soru işaretleri oluşturuyor."
         }
     ]
 }

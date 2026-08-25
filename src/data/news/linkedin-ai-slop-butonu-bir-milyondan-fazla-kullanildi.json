@@ -1,0 +1,34 @@
+{
+    "id": "linkedin-ai-slop-butonu-bir-milyondan-fazla-kullanildi",
+    "title": "LinkedIn'de 'Yapay Zeka Çöpü Gibi' Butonuna 1 Milyondan Fazla Kez Tıklandı",
+    "description": "LinkedIn'in kullanıcıların düşük kaliteli veya yapay zeka tarafından üretilmiş görünen içerikleri bildirmesini sağlayan 'Seems like AI slop' seçeneği, kullanıma sunulmasından bir aydan kısa süre içinde 1 milyondan fazla kez kullanıldı.",
+    "image": "/images/linkedin-ai-slop-butonu-bir-milyondan-fazla-kullanildi.webp",
+    "category": "Teknoloji",
+    "date": "25 Ağustos 2026, Salı",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "LinkedIn'in yapay zeka tarafından üretilmiş veya düşük kaliteli görünen içerikleri bildirmek için sunduğu 'Seems like AI slop' seçeneği, 30 Temmuz'da kullanıma açılmasından bu yana 1 milyondan fazla kez kullanıldı."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kullanıcılar bu seçeneğe gönderilerin üç noktalı menüsünden ulaşabiliyor. LinkedIn, kullanıcı geri bildirimlerini yapay zeka tespit sistemlerindeki güncellemelerle birlikte kullanarak şirketin yapay zeka çöpü olarak sınıflandırdığı içeriklerin görüntülenmesini son haftalarda yüzde 40 azalttığını açıkladı."
+        },
+        {
+            "type": "paragraph",
+            "text": "Şirket ayrıca yapay zeka kullanılarak hazırlanmış olabileceği düşünülen gönderilerin yazarlarına bildirim göndermeye başladı. LinkedIn, bu bildirimlerin kullanıcıları spam paylaşmakla suçlamak yerine içerikleriyle ilgili geri bildirim sağlamak amacı taşıdığını belirtiyor."
+        },
+        {
+            "type": "paragraph",
+            "text": "LinkedIn'in hamlesi, profesyonel sosyal ağlarda yapay zeka tarafından üretilen içeriklerin artmasına yönelik endişelerin büyüdüğü bir dönemde geldi. Pangram tarafından yapılan bir araştırmada incelenen uzun LinkedIn gönderilerinin yüzde 41'inin tamamen yapay zeka tarafından oluşturulmuş olarak işaretlendiği belirtildi."
+        },
+        {
+            "type": "paragraph",
+            "text": "Şirketin hedefi yapay zekayla desteklenen tüm içerikleri yasaklamak değil; düşük insan katkısıyla seri şekilde üretilen, tekrarlayan tavsiyeler, genel ifadeler ve etkileşim toplamaya yönelik otomatik yorumlar gibi içeriklerin yayılmasını sınırlamak."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bununla birlikte LinkedIn'in açıkladığı yüzde 40'lık düşüş, platformdaki yapay zeka içeriklerinin gerçekten azaldığını göstermiyor. Bu oran yalnızca LinkedIn'in önceden yapay zeka çöpü olarak sınıflandırdığı içeriklerin görüntülenme sayısındaki düşüşü ifade ediyor."
+        }
+    ]
+}
