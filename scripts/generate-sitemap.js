@@ -28,7 +28,7 @@ const urls = [
     },
 
     ...articles.map((article) => ({
-        loc: `${BASE_URL}/${article.id}`,
+        loc: `${BASE_URL}/article/${article.id}`,
         lastmod: new Date().toISOString().split("T")[0],
     })),
 ];
