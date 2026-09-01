@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yokartik.bozapps.com/sitemap.xml
